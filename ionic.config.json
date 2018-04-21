@@ -1,0 +1,8 @@
+{
+  "name": "fotemp",
+  "app_id": "d5a31b00",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
